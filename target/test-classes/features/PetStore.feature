@@ -24,8 +24,8 @@
         And la respuesta debe contener el id<id>, petId<petId>, quantity<quantity>
         Examples:
         |id|petId|quantity|codigo|
-        |201|2   |3       |0   |
-        |202|5   |15      |0   |
+        |201|2   |3       |200   |
+        |202|5   |15      |200   |
         |203|6   |1       |200   |
         |204|9   |9       |200   |
 
